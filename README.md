@@ -1,4 +1,4 @@
-#Easy Leave
+# Easy Leave
 This project is aimed at developing a web based Leave Management Tool, which is of
 importance to either an organization or a college.
 The Easy Leave is an Intranet based application that can be accessed throughout the
